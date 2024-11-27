@@ -1,0 +1,1 @@
+# djangocms-inline-editing
